@@ -4,6 +4,22 @@
 }
 
 #slider-container {
+  height: 600px;
+  width: 800px;
+  margin: 0 auto;
+  overflow: hidden;
+  tex-align: center;
+}
+
+#image-container {
+  height: 800px;
+  width: 2400px;
   position: relative;
+}
+
+#image-container img {
+  float: left;
+  height: 800px;
+  width: 800px;
 }
 /*# sourceMappingURL=style.css.map */
