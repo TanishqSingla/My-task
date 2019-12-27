@@ -1,2 +1,3 @@
 # gallery
-This is the gallery for octahacks 3.0 website
+
+This repo contains the code for gallery and our team section for Octahacks3.0 website
